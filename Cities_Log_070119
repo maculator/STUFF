@@ -1,0 +1,1272 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 590 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8172 MB
+    Driver:   25.20.15003.5010
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ColossalManaged.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\ICities.dll into Unity Child Domain
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll (this message is harmless)
+Loading C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\PopsApiWrapper.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+
+UnloadTime: 0.633600 ms
+Game mode
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.171500 ms
+Machine ID: 5aa2df5887ddec3f9928d3aee765dbc51fbd7ec2
+Model: H310M A (Gigabyte Technology Co., Ltd.)
+OS: Windows 10  (10.0.0) 64bit
+Language: German
+CPU: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz (6 core(s))
+System Memory: 16318
+Gfx Device: Radeon RX 590 Series
+Gfx Version: Direct3D 11.0 [level 11.1]
+Gfx Memory: 8172
+Gfx Shader Model: 50
+Game Version: 1.11.1-f2-steam-win
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+API: Steam Type: Steam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting vsync to 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Raw Command Line: C:\Steam\steamapps\common\Cities_Skylines\Cities.exe
+Arguments: C:\Steam\steamapps\common\Cities_Skylines\Cities.exe
+  [CommandLine - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Steam\steamapps\common\Cities_Skylines\Cities_Data\Managed\System.Xml.dll (this message is harmless)
+Adding package 'Cliffside Bay' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Cliffside Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'System' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\CO.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Eden Valley2' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Eden Valley2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Foggy Hills' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Foggy Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Garden Rivers2' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Garden Rivers2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Grand River' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Grand River.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Green Peaks' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Green Peaks.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Marble Canyon' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Marble Canyon.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Pearl Bay' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Pearl Bay.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Twin Fjords' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Twin Fjords.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'IN Woodgarden' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\IN Woodgarden.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Lavender Lake2' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Lavender Lake2.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Ferry Empire' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Fix The Traffic' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Fix The Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'MT Trains' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\MT Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Alpine Villages' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND By The Dam' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Floodland' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Island Hopping' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'ND Tornado Country' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\ND Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope1FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope2FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'NorthEurope3FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\NorthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Cavern Coast' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Cavern Coast.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Honu Island' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Honu Island.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Mountain Meadows' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Mountain Meadows.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Pine Rivers' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Pine Rivers.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'PL Windfield' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\PL Windfield.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope1FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope2FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'SouthEurope3FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\SouthEurope3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical1FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical1FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical2FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical2FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tropical3FINAL' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Tropical3FINAL.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter Hills' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter Hills.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter1Final' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter1Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter2Final' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter2Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter3Final' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter3Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter4Final' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter4Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Winter5Final' [C:\Steam\steamapps\common\Cities_Skylines\Files\Maps\Winter5Final.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Alpine Villages' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Alpine Villages.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'By The Dam' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\By The Dam.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'City of Gardens' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\City of Gardens.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Clean Up Crew' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Clean Up Crew.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Ferry Empire' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Ferry Empire.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Fix the Traffic' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Fix the Traffic.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Floodland' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Floodland.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Green Power' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Green Power.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Island Hopping' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Island Hopping.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Tornado Country' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Tornado Country.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Trains' [C:\Steam\steamapps\common\Cities_Skylines\Files\Scenarios\Trains.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightAverage.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightBleak.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightCool.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightFilm.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightNeutral.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightVintage.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package '1209581656' [C:\Steam\steamapps\workshop\content\255710\1209581656\RelightWarm.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Rockdale' [cloud:Rockdale.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'AutoSave' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\AutoSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Rockdale' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Rockdale.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-00000000111E4020 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-00000000111E4020.dll
+Non platform assembly: data-0000000016C84020 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016C84020.dll
+Non platform assembly: data-0000000016C377B0 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016C377B0.dll
+Non platform assembly: data-0000000016C9FA30 (this message is harmless)
+Non platform assembly: data-0000000016C9FA30 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016C9FA30.dll
+Non platform assembly: data-0000000016CA5840 (this message is harmless)
+Non platform assembly: data-0000000016CA5840 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016CA5840.dll
+Non platform assembly: data-0000000016CB6450 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016CB6450.dll
+Non platform assembly: data-0000000016CD2A70 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016CD2A70.dll
+Non platform assembly: data-0000000016CE1A80 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016CE1A80.dll
+Non platform assembly: data-0000000016DA28A0 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016DA28A0.dll
+Non platform assembly: data-0000000016DD2EB0 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016DD2EB0.dll
+Loading C:\Steam\steamapps\workshop\content\255710\812713438\DynamicResolution.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016DF5CE0 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016DF5CE0.dll
+Assembly DynamicResolution, Version=1.0.6509.42461, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\1591417160\0Harmony.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016DFB4F0 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016DFB4F0.dll
+Assembly 0Harmony, Version=1.2.0.1, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\1567569285\AchieveIt.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016E19F40 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016E19F40.dll
+Assembly AchieveIt, Version=1.3.6930.29883, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\1209581656\LightingRebalance.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000006BB2240 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000006BB2240.dll
+Assembly LightingRebalance, Version=1.0.6917.812, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\1591417160\HideIt.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016E1D620 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016E1D620.dll
+Assembly HideIt, Version=1.6.6946.33684, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\1548831935\AdvancedVehicleOptions.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016E2F900 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016E2F900.dll
+Assembly AdvancedVehicleOptions0, Version=1.0.6875.27440, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\651322972\FineRoadTool.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016E55600 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016E55600.dll
+Assembly FineRoadTool, Version=1.0.6723.1560, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\802066100\FineRoadAnarchy.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016E74620 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016E74620.dll
+Assembly FineRoadAnarchy, Version=1.0.6719.197, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\766190099\MoveIt.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016F2E440 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016F2E440.dll
+Assembly MoveIt, Version=1.0.6812.29872, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Steam\steamapps\workshop\content\255710\667342976\LoadingScreenMod.dll  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Non platform assembly: data-0000000016F75040 (this message is harmless)
+Fallback handler could not load library C:/Steam/steamapps/common/Cities_Skylines/Cities_Data/Mono/data-0000000016F75040.dll
+Assembly LoadingScreenMod, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null loaded.  [Mods - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\AdvancedVehicleOptions.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'FineRoadTool' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\FineRoadTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\FineRoadAnarchy.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: 'MoveItTool' is not found or cannot be loaded. Make sure to call GameSettings.AddSettingsFile() to register a settings file before using SavedValue().  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\MoveItTool.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loading locale: en
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation started  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Initializing file IO
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Init complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.600200 ms (FindLiveObjects: 0.087100 ms CreateObjectMapping: 0.066300 ms MarkObjects: 3.441400 ms  DeleteObjects: 0.004900 ms)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.220700 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2346.
+Total: 3.962200 ms (FindLiveObjects: 0.094500 ms CreateObjectMapping: 0.098900 ms MarkObjects: 3.757800 ms  DeleteObjects: 0.010400 ms)
+
+PopsApi: Popping task: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: gdpr-popup-2018-05-17
+PopsApi: Popping task: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: terms-of-use-2018-05-16
+PopsApi: Popping task: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Title: privacy-policy-2018-11-02
+PopsApi: Pushing task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+PopsApi: [CDiskstorage] Error: Root path is empty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CDiskstorage] Error reading failed achievement calls cache, file IO or root path not set
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paradox Account successfully authenticated!  [HTTP]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] Options: 1312 False True True True True False False
+Loading simulation data from: Rockdale_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1181.048706 ms
+
+Unloading 7694 unused Assets to reduce memory usage. Loaded Objects now: 4856.
+Total: 15.215500 ms (FindLiveObjects: 0.421200 ms CreateObjectMapping: 0.774600 ms MarkObjects: 11.859100 ms  DeleteObjects: 2.160100 ms)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Oneway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Medium 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+Tyre array is null or zero size: ChirpX Crawler  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Tyre array is null or zero size: ChirpX Rocket  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+No base generated: Castle Of Lord Chirpwick Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 04 Gate  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Ore Mine 03 Sub 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 04 Gate 2  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 01 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Slaughter House 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Slaughter House Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Car Factory 01 Sub 10  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] LoadQueue 0 21597
+[LSM] Custom assets loaded in 0
+[LSM] Mem 3661 9009 0 0
+[LSM] Textures / Materials / Meshes shared: 0 / 0 / 0 pre-loaded: 0 / 0 / 0 loaded: 0 / 0 / 0
+[LSM] Max cache 0
+Loaded simulation data from: Rockdale_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Central Park  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Central Park 2  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Castle Of Lord Chirpwick Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Warehouse Content Crop 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Warehouse Content Crop 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Ore Mine 03 Sub 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Sand Storage Content 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Sand Storage Content 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] Mem 4931 10626 
+Assembly resolution failure. No assembly named 'NetworkSkins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' was found.  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Assembly resolution failure. No assembly named 'NetworkSkins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' was found.  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+[LSM] All completed at 42801
+[LSM] Mem 5111 11021 
+[Hide It!] HiderTool:ToggleCameraBorders -> Exception: Object reference not set to an instance of an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Saved simulation data to: C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Temp\61d06355-17e4-49c8-9231-6db54838d7b8.ccs  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Rockdale' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving package 'Rockdale' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refreshing package 'Rockdale' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Rockdale.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3483.033447 ms
+PopsApi: Pushing task: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 31763 unused Assets to reduce memory usage. Loaded Objects now: 69823.
+Total: 151.838791 ms (FindLiveObjects: 4.587300 ms CreateObjectMapping: 8.566100 ms MarkObjects: 87.524200 ms  DeleteObjects: 51.160297 ms)
+
+PopsApi: [CDiskstorage] Error: Root path is empty
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: [CDiskstorage] Error reading failed achievement calls cache, file IO or root path not set
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Pushing task: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Popping task: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Paradox Account successfully authenticated!  [HTTP]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] Options: 1312 False True True True True False False
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Loading simulation data from: Rockdale_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\gameSettings.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 1193.028564 ms
+
+Unloading 4549 unused Assets to reduce memory usage. Loaded Objects now: 52983.
+Total: 68.788399 ms (FindLiveObjects: 2.136300 ms CreateObjectMapping: 4.821900 ms MarkObjects: 60.507099 ms  DeleteObjects: 1.322400 ms)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Oneway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Large 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Twoway Toll Booth Medium 01 Sub  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Castle Of Lord Chirpwick Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 04 Gate  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Ore Mine 03 Sub 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 04 Gate 2  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Dry Dock 01 Sub 01 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Slaughter House 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Slaughter House Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Beech 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Alder 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No base generated: Tree Plantation Conifer 03 Sub 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+No props placed: Car Factory 01 Sub 10  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] LoadQueue 0 11672
+[LSM] Custom assets loaded in 0
+[LSM] Mem 4546 10374 0 0
+[LSM] Textures / Materials / Meshes shared: 0 / 0 / 0 pre-loaded: 0 / 0 / 0 loaded: 0 / 0 / 0
+[LSM] Max cache 0
+Loaded simulation data from: Rockdale_Data  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: ChirpX Vehicles Parking  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Central Park  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Central Park 2  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Castle Of Lord Chirpwick Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Warehouse Content Crop 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Warehouse Content Crop 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Ore Mine 03 Sub 1  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Sand Storage Content 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Sand Storage Content 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 02 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Beech 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Alder 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Tree Plantation Conifer 03 Sub 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 01  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 02  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOD has no base: Dry Dock 01 Content 03  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] PoliciesPanel not initialized yet. Initializing at 15894
+[LSM] Mem 4950 10997 
+Assembly resolution failure. No assembly named 'NetworkSkins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' was found.  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[LSM] All completed at 32821
+[LSM] Mem 5353 11413 
+[Hide It!] HiderTool:ToggleCameraBorders -> Exception: Object reference not set to an instance of an object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto save requested  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved simulation data to: C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Temp\d9932afb-492f-4f39-b6e1-f4fb79e07efc.ccs  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refreshing package 'AutoSave' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\AutoSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto save requested  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved simulation data to: C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Temp\65db2109-d659-4fb3-b8cf-8473a7148f72.ccs  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refreshing package 'AutoSave' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\AutoSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Auto save requested  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved simulation data to: C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Temp\6d25dead-cfd8-4861-8b74-04e132a3a2b5.ccs  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving package 'AutoSave' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refreshing package 'AutoSave' [C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\AutoSave.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\userGameState.cgs  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saved simulation data to: C:\Users\Axel\AppData\Local\Colossal Order\Cities_Skylines\Saves\Temp\2c7873fa-07e8-4774-96fb-945fb41346a5.ccs  [Serialization]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Adding package 'Rockdale' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Saving package to cloud 'Rockdale' [Transient]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Refreshing package 'Rockdale' [cloud:Rockdale.crp]  [Packer - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PopsApi: Shutdown complete
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Waiting for simulation to quit...  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 22c8 -> priority: 1 
+  Thread -> id: 2ab8 -> priority: 1 
+  Thread -> id: 2410 -> priority: 1 
+GameSettings Monitor Exiting...  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings terminated  [Settings - Internal]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Simulation terminated  [Core]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
